@@ -1,6 +1,7 @@
-# wish
 
-A new Flutter project.
+# wish-app
+
+Simple wish app made with flutter and dart.
 
 ## Getting Started
 
